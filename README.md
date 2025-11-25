@@ -1,4 +1,12 @@
 ## Hi there 👋
+## my name is YOUSSEF ABIED 🐪
+
+
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/yoabied" alt="yoabied's 42 stats" /></a>
+
+
+
 
 <!--
 **YoussefYabied/YoussefYabied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
